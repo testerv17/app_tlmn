@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "27987269810",
+    "firebase_url": "https://tsterapp-fcf1b-default-rtdb.firebaseio.com",
+    "project_id": "tsterapp-fcf1b",
+    "storage_bucket": "tsterapp-fcf1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27987269810:android:62ec630d206d87259751ab",
+        "android_client_info": {
+          "package_name": "com.example.login_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAGRVSOAum5DLwzTrSD0hR85JMG6FkCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27987269810:android:e895ae2d77cdd6319751ab",
+        "android_client_info": {
+          "package_name": "com.example.test_menu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAGRVSOAum5DLwzTrSD0hR85JMG6FkCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27987269810:android:11a4b0e1ab8506839751ab",
+        "android_client_info": {
+          "package_name": "tecnoluminus.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAGRVSOAum5DLwzTrSD0hR85JMG6FkCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
